@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/Cmg9rLkhDZs' title='DeepPledge Website Walkthrough' width='' alt='DeepPledge Website Walkthrough' />
+<img src='https://www.youtube.com/watch?v=Cmg9rLkhDZs' title='DeepPledge Website Walkthrough' width='' alt='DeepPledge Website Walkthrough' />
 
 GIF created with **Mac Built-in Recording System**
 
